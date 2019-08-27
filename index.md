@@ -1,3 +1,13 @@
+# Alessandro's First CS193 Homework
+- Lecturer's and TA's with a sense of humor
+- Small class size
+- Learning to use computer science tools
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -8,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
-#header
+# header
 ```
 
 ```markdown
